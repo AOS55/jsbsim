@@ -1,0 +1,7 @@
+<map id="GetTerrainElevationFtIC" name="GetTerrainElevationFtIC">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGFDMExec.html#a93876fb8e8a2302e3880f9ebfb3ce6d5" title="Returns the FGInertial pointer. " alt="" coords="216,5,379,47"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGLocation.html#a0697137d8c02a8b84f695d12317347a6" title="Sets the semimajor and semiminor axis lengths for this planet. " alt="" coords="225,71,370,112"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGInertial.html#a36b96e61eb18cfda477d67b0a01eac4e" title="Get terrain contact point information below the current location. " alt="" coords="230,136,365,177"/>
+<area shape="rect" id="node5" href="$classJSBSim_1_1FGLocation.html#ad6d787090b71419e91678ceb91c6ef1f" title="Gets the geodetic altitude in feet. " alt="" coords="225,201,370,243"/>
+<area shape="rect" id="node6" href="$classJSBSim_1_1FGLocation.html#ab0d754a471a7ec7280549a1ae1f93331" title="Get the sea level radius in feet below the current location. " alt="" coords="427,201,573,243"/>
+</map>
